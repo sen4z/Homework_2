@@ -1,0 +1,38 @@
+{
+  "startup": true,
+  "shutdown": true,
+  "requests": [
+    {
+      "input": 5,
+      "status": 200,
+      "body": {
+        "result": 6,
+        "request_id": "c76a491c-f48f-4f76-967e-f99b130e52f2"
+      }
+    },
+    {
+      "input": 5,
+      "status": 409,
+      "body": {
+        "error": "DUPLICATE_NUMBER",
+        "request_id": "24b3f198-ec05-4391-91ff-1d8de0801970"
+      }
+    },
+    {
+      "input": 4,
+      "status": 409,
+      "body": {
+        "error": "PREDECESSOR_OF_PROCESSED",
+        "request_id": "edfc45b3-ea82-4288-b1b3-b2c5aac274a3"
+      }
+    },
+    {
+      "input": 6,
+      "status": 200,
+      "body": {
+        "result": 7,
+        "request_id": "8062ee3c-b4d3-4794-a44a-5cdde3d66d7b"
+      }
+    }
+  ]
+}

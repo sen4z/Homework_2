@@ -1,0 +1,12 @@
+{
+  "tests": 11,
+  "passed": true,
+  "failures": 0,
+  "errors": 0,
+  "database": "PostgreSQL",
+  "application_processes": 2,
+  "proxy_processes": 2,
+  "invalid_input_cases": 15,
+  "concurrent_duplicate_requests": 20,
+  "neighbor_pairs": 10
+}

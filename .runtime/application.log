@@ -1,0 +1,2 @@
+2026-10-28 10:51:47,097 INFO {"request_id": "f525273e-1ff2-476b-a3ce-9d391ae0b463", "outcome": "OK", "number": 5}
+2026-10-28 10:52:31,775 ERROR {"request_id": "a5ef8da6-bc13-4598-bae2-4c573623b899", "error": "DUPLICATE_NUMBER", "number": 5}

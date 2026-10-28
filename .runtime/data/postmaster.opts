@@ -1,0 +1,1 @@
+/usr/lib/postgresql/18/bin/postgres "-D" "/home/sen4z/HomeWorks/Bykonya/Homework_2/.runtime/data" "-h" "127.0.0.1" "-p" "54329" "-k" "/tmp"
